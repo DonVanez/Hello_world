@@ -1,1 +1,5 @@
 the file created in local repo
+editing via GitHub Web-service
+ready for pull requests
+
+Adding changes in side branch in local repo
